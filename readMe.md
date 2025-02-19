@@ -40,4 +40,25 @@ BiCOnsumer **
 Comparator
 
 
+-----
+findAny
+findFirst
+anymatch
+allmatch
+noneMatch
+count
+mapToInt
+mapToDouble
+collect
+flatmap
+reduce
+map
+filter
+sorted (with comparator)
+distinct
+limit
+skip
+
+
+
 
