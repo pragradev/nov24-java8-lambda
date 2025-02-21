@@ -72,7 +72,22 @@ call op.get, ifPresent, ispresent, orElseGet, orElseThrow
 
 switch existing lambda with method reference
 
-Spring
+Spring Framework:
+framework
+
+software
+methods
+class
+packages
+lib
+Project
+framework
+
+Web App -> Rest Apis, spring Data hibernate, microservice arc
+
+Prereq:
+IntelliJ Ultimate
+Jet brains account 30:
 
 
 
