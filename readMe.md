@@ -59,6 +59,20 @@ distinct
 limit
 skip
 
+--------
+20 Feb
+
+Method ref
+
+
+Exercise:
+optional class
+create op ebjects with op.empty, ofNullable, of
+call op.get, ifPresent, ispresent, orElseGet, orElseThrow
+
+switch existing lambda with method reference
+
+Spring
 
 
 
